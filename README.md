@@ -33,9 +33,3 @@ Projeto de página agregadora de links pessoais, parte do curso Discover da Rock
 Esse projeto está sob a licença MIT.
 
 ---
-
-=======
-
-# devlinks
-
-Projeto de página agregadora de links pessoais feito com base no projeto Rocketseat Discover.
